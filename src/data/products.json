@@ -1,0 +1,104 @@
+{
+    "products": [ 
+        {
+            "id": 1,
+            "title": "Assassin's Creed IV: Black Flag",
+            "img": "creed.jpg",
+            "produtor": "Ubisoft Montreal",
+            "publicador": "Lumenox Games",
+            "exclusivo": "Console",
+            "europa": "2014",
+            "referencia": "4",
+            "preco": 230
+            
+        },
+        {
+            "id": 2,
+            "title": "Battlefield 4",
+            "img": "Battle.jpg",
+            "produtor": "EA Digital Illusions CE",
+            "publicador": "Electronic Arts",
+            "exclusivo": "Nao",
+            "europa": "2013",
+            "referencia": "28",
+            "preco": 250
+        },
+        {
+            "id": 3,
+            "title": "Batman:Arkham Knigh",
+            "img": "large.jpg",
+            "produtor": "RocksteadyStudios",
+            "publicador": "Warner Bros",
+            "exclusivo": "Nao",
+            "europa": "2015",
+            "referencia": "25",
+            "preco": 123
+        },
+        {
+            "id": 4,
+            "title": "Dead or Alive 5: Last Round",
+            "img": "alive.jpg",
+            "produtor": "Tecmo Koei",
+            "publicador": "Tecmo Koei",
+            "exclusivo": "Nao",
+            "europa": "ASA",
+            "referencia": "63",
+            "preco": 99
+        },
+        {
+            "id": 5,
+            "title": "Dragon Ball Xenoverse 2",
+            "img": "ball.jpg",
+            "produtor": "Dimps",
+            "publicador": "Namco Bandai",
+            "exclusivo": "Nao",
+            "europa": "ASA",
+            "referencia": "79",
+            "preco": 199   
+        },
+        {
+            "id": 6,
+            "title": "F1 2019",
+            "img": "f1.jpg",
+            "produtor": "Codemasters",
+            "publicador": "Codemasters",
+            "exclusivo": "Nao",
+            "europa": "2019",
+            "referencia": "",
+            "preco": 325   
+        },
+        {
+            "id": 7,
+            "title": "FIFA 20",
+            "img": "fifa.jpg",
+            "produtor": "EA Canada",
+            "publicador": "Electronic Arts",
+            "exclusivo": "Nao",
+            "europa": "2019",
+            "referencia": "79",
+            "preco": 355  
+        },
+        {
+            "id": 8,
+            "title": "Tekken 7",
+            "img": "tekken.jpg",
+            "produtor": "Capcom",
+            "publicador": "Ancmit",
+            "exclusivo": "Nao",
+            "europa": "2014",
+            "referencia": "79",
+            "preco": 200 
+        },
+        {
+            "id": 9,
+            "title": "Resident Evil 5",
+            "img": "cap.jpg",
+            "produtor": "Capcom",
+            "publicador": "Capcom",
+            "exclusivo": "Nao",
+            "europa": "2016",
+            "referencia": "79",
+            "preco": 178                   
+        }
+    ]
+}

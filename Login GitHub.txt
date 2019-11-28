@@ -1,0 +1,12 @@
+name - ida20
+email - 310573@aluno.unilins.edu.br
+senha - eR45@+Aa
+organizaçao - idaCode
+
+nome- andersonalexandre007
+email- bastosferraz007@gmail.com
+senha- lxzero007
+
+https://www.youtube.com/watch?v=5G3zSueEYuo
+
+https://github.com/marktellez/24-create-an-online-store-pt-3/blob/master/src/App.js
